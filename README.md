@@ -5,12 +5,7 @@
 Rofi is an incredibly customisable launcher, here are some example Dracula themes to get you started.
 
 ### theme/config1.rasi
-
-![Screenshot1](./screenshot.png)
-
-### theme/config2.rasi
-
-![Screenshot2](./screenshot2.png)
+![rofi](https://github.com/veevyo/dracula-rofi/assets/41368076/ffa13c54-3c89-49ca-8436-6bfca3434f64)
 
 ## Install
 
@@ -23,6 +18,11 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | [![Raph](https://avatars2.githubusercontent.com/u/28673457?s=70)](https://github.com/RaphGL) |
 | -------------------------------------------------------------------------------------------- |
 | [Raph](https://github.com/RaphGL)                                                            |
+
+| [![veevyo](https://avatars2.githubusercontent.com/u/28673457?s=70)](https://github.com/veevyo) |
+| -------------------------------------------------------------------------------------------- |
+| [veevyo](https://github.com/veevyo)                                                            |
+
 
 ## Community
 
