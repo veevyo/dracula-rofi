@@ -2,7 +2,7 @@
 
 > A dark theme for [rofi](https://github.com/davatorium/rofi).
 
-Rofi is an incredibly customisable launcher, here are some example Dracula themes to get you started.
+Rofi is an incredibly customisable launcher, here are is an example Dracula theme to get you started.
 
 ### theme/config1.rasi
 ![rofi](https://github.com/veevyo/dracula-rofi/assets/41368076/ffa13c54-3c89-49ca-8436-6bfca3434f64)
@@ -19,7 +19,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | -------------------------------------------------------------------------------------------- |
 | [Raph](https://github.com/RaphGL)                                                            |
 
-| [![veevyo](https://avatars2.githubusercontent.com/u/veevyo)](https://github.com/veevyo) |
+| [![veevyo](https://github.com/veevyo.png?size=100)](https://github.com/veevyo) |
 | -------------------------------------------------------------------------------------------- |
 | [veevyo](https://github.com/veevyo)                                                            |
 
