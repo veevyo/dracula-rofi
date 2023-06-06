@@ -19,7 +19,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | -------------------------------------------------------------------------------------------- |
 | [Raph](https://github.com/RaphGL)                                                            |
 
-| [![veevyo](https://avatars2.githubusercontent.com/u/28673457?s=70)](https://github.com/veevyo) |
+| [![veevyo](https://avatars2.githubusercontent.com/u/veevyo)](https://github.com/veevyo) |
 | -------------------------------------------------------------------------------------------- |
 | [veevyo](https://github.com/veevyo)                                                            |
 
